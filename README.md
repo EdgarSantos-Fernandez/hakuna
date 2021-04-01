@@ -1,4 +1,4 @@
-# hakuna
+# Hakuna my data
 R codes and data accompanying the paper "Understanding the reliability of citizen science observational data using item response models"
 
 The paper can be found at:
