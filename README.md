@@ -22,9 +22,10 @@ The models introduced in the article are part of the R package **staircase** (ht
 ## Results from the item response models:
 
 ![Alt text](https://github.com/EdgarSantos-Fernandez/hakuna/blob/master/seren_abil.jpg?raw=true "Title")
-Fig: Posterior estimates of the users' abilities vs their proportion of correct classification.
+Fig: Estimates of the users' abilities vs their proportion of correct classification.
 
-
+![Alt text](https://github.com/EdgarSantos-Fernandez/hakuna/blob/master/prob_vs_species.jpg?raw=true "Title")
+Fig: Species difficulties vs the proportion of correct classification.
 
 ## Files in this repository:
 
@@ -49,9 +50,6 @@ See Swanson et al. (2015) for more details.
 ## How to cite:
 Santos-Fernandez, Edgar, and Mengersen, Kerrie . "Bayesian item response models for citizen science ecological data." arXiv preprint arXiv:2003.06966 (2020).
 
-
-![Alt text](https://github.com/EdgarSantos-Fernandez/hakuna/blob/master/prob_vs_species.jpg?raw=true "Title")
-Fig: Species difficulties vs the proportion of correct classification.
 
 ## References:
 
