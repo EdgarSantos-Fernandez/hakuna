@@ -1,7 +1,7 @@
 # hakuna
 R codes and data accompanying the paper "Understanding the reliability of citizen science observational data using item response models"
 
-# STAtistical Item Response models for Citizen Science applications in Ecology
+The paper can be found at:
 
 * https://arxiv.org/abs/2003.06966
 * https://www.researchgate.net/publication/339944525_Bayesian_item_response_models_for_citizen_science_ecological_data
@@ -43,6 +43,5 @@ Fig: Species difficulties vs the proportion of correct classification.
 Swanson, A., M. Kosmala, C. Lintott, R. Simpson, A. Smith, and C. Packer (2015).
 Snapshot Serengeti, high-frequency annotated camera trap images of 40 mammalian species in an African savanna. Scientific data 2, 150026.
 =======
-# hakuna
-R codes and data accompanying the paper "Understanding the reliability of citizen science observational data using item response models"
+
 
