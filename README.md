@@ -1,5 +1,5 @@
 # Hakuna my data
-R codes and data accompanying the paper "Understanding the reliability of citizen science observational data using item response models"
+R codes and data accompanying the paper "Understanding the reliability of citizen science observational data using item response models" to appear in Methods in Ecology and Evolution.
 
 __Authors:__
 
