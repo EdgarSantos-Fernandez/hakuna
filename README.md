@@ -19,7 +19,7 @@ The paper can be found at:
 The models introduced in the article are part of the R package **staircase** (https://github.com/EdgarSantos-Fernandez/staircase).
 
 
-
+## Results from the item response models:
 
 ![Alt text](https://github.com/EdgarSantos-Fernandez/hakuna/blob/master/seren_abil.jpg?raw=true "Title")
 Fig: Posterior estimates of the users' abilities vs their proportion of correct classification.
