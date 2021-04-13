@@ -55,6 +55,7 @@ Santos-Fernandez, Edgar, and Mengersen, Kerrie . "Bayesian item response models 
 
 Swanson, A., M. Kosmala, C. Lintott, R. Simpson, A. Smith, and C. Packer (2015).
 Snapshot Serengeti, high-frequency annotated camera trap images of 40 mammalian species in an African savanna. Scientific data 2, 150026.
+
 =======
 
 
