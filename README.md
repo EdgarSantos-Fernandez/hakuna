@@ -19,7 +19,17 @@ The paper can be found at:
 The models introduced in the article are part of the R package **staircase** (https://github.com/EdgarSantos-Fernandez/staircase).
 
 
-## Results from the item response models:
+## Content:
+
+There are two RMarkdown files:
+
+* **simple_example**: we show the fit of a spatial item response model using a small dataset (for illustration purposes only and these results do not appear in the paper).
+
+* **Item_response_modeling_for_big_data**: contains the codes used to fit the models in presence of big dataset on a High-Performance Computing system (Paper section 4.3)
+ 
+
+
+## Some outputs from the paper:
 
 ![Alt text](https://github.com/EdgarSantos-Fernandez/hakuna/blob/main/seren_abil.jpg?raw=true "Title")
 Fig: Estimates of the users' abilities vs their proportion of correct classification.
@@ -27,9 +37,10 @@ Fig: Estimates of the users' abilities vs their proportion of correct classifica
 ![Alt text](https://github.com/EdgarSantos-Fernandez/hakuna/blob/main/prob_vs_species.jpg?raw=true "Title")
 Fig: Species difficulties vs the proportion of correct classification.
 
-## Files in this repository:
 
-1- _Codes_used_in_Item_response_modeling_for_big_data.Rmd_ illustrate the implementation of the case study from  Section 4.3 (Item response model for big data).
+## Item_response_modeling_for_big_data:
+
+1- _Codes_used_in_Item_response_modeling_for_big_data.Rmd_ illustrate the implementation of the case study from Section 4.3 (Item response model for big data).
 The first part contains the codes for fitting the model using Stan on a High-Performance Computing system (HPC).
 We then show how to combine the subposterior estimates via consensus Monte Carlo.
 
