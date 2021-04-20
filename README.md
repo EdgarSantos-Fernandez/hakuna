@@ -62,17 +62,16 @@ See Swanson et al. (2015) for more details.
 
 ## How to cite:
 
-Santos-Fernandez, Edgar, and Mengersen, Kerrie. "Understanding the reliability of citizen science observational data using item response models". Methods in Ecology and Evolution.
+* Santos-Fernandez, Edgar, and Mengersen, Kerrie. "Understanding the reliability of citizen science observational data using item response models". Methods in Ecology and Evolution.
 
-
-Santos-Fernandez, Edgar, and Mengersen, Kerrie. "Bayesian item response models for citizen science ecological data." arXiv preprint arXiv:2003.06966 (2020).
+* Santos-Fernandez, Edgar, and Mengersen, Kerrie. "Bayesian item response models for citizen science ecological data." arXiv preprint arXiv:2003.06966 (2020).
 
 
 
 
 ## References:
 
-Swanson, A., M. Kosmala, C. Lintott, R. Simpson, A. Smith, and C. Packer (2015).
+* Swanson, A., M. Kosmala, C. Lintott, R. Simpson, A. Smith, and C. Packer (2015).
 Snapshot Serengeti, high-frequency annotated camera trap images of 40 mammalian species in an African savanna. Scientific data 2, 150026.
 
 
