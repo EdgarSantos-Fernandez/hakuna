@@ -12,7 +12,7 @@ Queensland University of Technology. GPO Box 2434. Brisbane, QLD 4001. Australia
 
 
 
-The paper can be found at:
+Preprint versions of the paper can be found at:
 
 * https://arxiv.org/abs/2003.06966
 * https://www.researchgate.net/publication/339944525_Bayesian_item_response_models_for_citizen_science_ecological_data
@@ -29,7 +29,6 @@ There are two RMarkdown files:
 
 * **Item_response_modeling_for_big_data**: contains the codes used to fit the models using big datasets on a High-Performance Computing system (Paper section 4.3). There is a HTML output from this file.
  
-
 
 ## Some outputs from the paper:
 
@@ -65,7 +64,6 @@ See Swanson et al. (2015) for more details.
 * Santos-Fernandez, Edgar, and Mengersen, Kerrie. "Understanding the reliability of citizen science observational data using item response models". Methods in Ecology and Evolution.
 
 * Santos-Fernandez, Edgar, and Mengersen, Kerrie. "Bayesian item response models for citizen science ecological data." arXiv preprint arXiv:2003.06966 (2020).
-
 
 
 
