@@ -25,9 +25,9 @@ The models introduced in the article are part of the R package **staircase** (ht
 
 There are two RMarkdown files:
 
-* **simple_example**: we show the fit of a spatial item response model using a small dataset (for illustration purposes only and these results do not appear in the paper). There is a HTML and a PDF version.
+* **simple_example**: shows the fit of a spatial item response model using a small dataset (for illustration purposes only and these results do not appear in the paper). There is a HTML and a PDF version.
 
-* **Item_response_modeling_for_big_data**: contains the codes used to fit the models in presence of big dataset on a High-Performance Computing system (Paper section 4.3). There is a HTML output from this file.
+* **Item_response_modeling_for_big_data**: contains the codes used to fit the models using big datasets on a High-Performance Computing system (Paper section 4.3). There is a HTML output from this file.
  
 
 
